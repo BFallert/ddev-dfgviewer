@@ -1,5 +1,9 @@
 {
     "repositories": {
+       "dfg-viewer": {
+               "type": "git",
+		"url": "git@github.com:BFallert/dfg-viewer.git"
+	},
         "0": {
             "type": "composer",
             "url": "https://composer.typo3.org/"
@@ -40,7 +44,7 @@
         "typo3/cms-t3editor": "^9.5",
         "typo3/cms-tstemplate": "^9.5",
         "typo3/cms-viewpage": "^9.5",
-        "slub/dfgviewer": "^5.2|dev-master",
+        "bfallert/dfg-viewer": "dev-branchtest",
         "georgringer/news": "^8.5",
         "sgalinski/lfeditor": "^6.0",
         "kitodo/presentation": "~3.3.0"
