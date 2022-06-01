@@ -51,7 +51,7 @@
         "bfallert/dfg-viewer": "dev-branchtest",
         "georgringer/news": "^8.5",
         "sgalinski/lfeditor": "^6.0",
-        "csidirop/presentation": "dev-3.3.x-ocr-test"
+        "csidirop/presentation": "3.3.x-ocr-test-dev"
     },
     "scripts": {
         "typo3-cms-scripts": [
