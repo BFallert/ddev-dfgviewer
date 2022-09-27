@@ -48,7 +48,7 @@
         "typo3/cms-t3editor": "^9.5",
         "typo3/cms-tstemplate": "^9.5",
         "typo3/cms-viewpage": "^9.5",
-        "bfallert/dfg-viewer": "dev-ft-main-rename",
+        "bfallert/dfgviewer": "ft-main-rename-dev",
         "georgringer/news": "^8.5",
         "sgalinski/lfeditor": "^6.0",
         "csidirop/presentation": "3.3.x-ocr-test-dev"
