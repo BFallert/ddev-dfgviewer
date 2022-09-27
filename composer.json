@@ -8,6 +8,10 @@
                "type": "git",
 		"url": "git@github.com:csidirop/kitodo-presentation.git"
 	},
+	"ub-mannheim/ubma-digitalcollections":  {
+		"type": "git", 
+		"url": "git@github.com:ub-mannheim/ubma_digitalcollections.git"
+	},
         "0": {
             "type": "composer",
             "url": "https://composer.typo3.org/"
