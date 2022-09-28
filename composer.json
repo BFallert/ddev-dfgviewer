@@ -14,7 +14,7 @@
 	},
     "ub-mannheim/presentation":  {
         "type": "git",
-        "url": "git@github.com:ub-mannheim/presentation.git"
+        "url": "git@github.com:UB-Mannheim/kitodo-presentation.git"
     },
     "0": {
             "type": "composer",
